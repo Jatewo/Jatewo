@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Jatewo"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:38FF64,100:00FF3A&height=300&section=header&text=Jatewo&fontSize=90&animation=fadeIn"></a>
+<a href="https://github.com/Jatewo"><img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=38FF64&height=300&section=header&text=Jatewo&fontSize=90&animation=twinkling"></a>
 
 <div align="center">
   <h2>Software Engineering Student</h2>
